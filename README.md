@@ -1,5 +1,7 @@
 # Ranily57 (Ranily)
 
+**Cette team est la seul officiel de VRChat France: https://github.com/VRCFR**
+
 ![Followers](https://img.shields.io/github/followers/Ranily57?label=Followers&style=flat-square)
 ![Location](https://img.shields.io/badge/Location-France-blue?style=flat-square)
 ![Timezone](https://img.shields.io/badge/Timezone-UTC%20%2B02%3A00-red?style=flat-square)
